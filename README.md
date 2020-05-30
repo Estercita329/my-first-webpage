@@ -1,37 +1,30 @@
-# _{My first}_
+# My first README and first webpage
 
-#### _{Creating my first webpage}, {May 28, 2020}_
+#### First webpage
 
-#### By _**{Ester Tataje}**_
+#### By _**Ester Tataje**_
 
 ## Description
 
-_{For Wednesday's assignnent, I created two html webpages. I implemented all the tools I have learned over the past 3 days into creating this webpage }_
+  -Created my first webpage
+
+
 
 ## Setup/Installation Requirements
 
-* _Learned Git Set up_
-* _Cloned this file
-* _all done using VS CODE_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
-
-## Known Bugs
-
-_{No known bugs}_
+* None at this time
 
 ## Support and contact details
 
-_{Reached out to my peers and instructos.}_
+_If you run into any issues, have questions, or tips and ideas please feel free to reach out to me .  https://github.com/Estercita329 _
 
 ## Technologies Used
 
-_{VS CODE and HTML}_
+* HTML
+
 
 ### License
 
-*{MIT Licensing}*
+*This project uses the following license MIT*
 
-Copyright (c) 2020 **_{Ester Tataje}_**
+Copyright (c) 2020 **_Ester Tataje_**
